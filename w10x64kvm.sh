@@ -1,7 +1,7 @@
 echo "===================================="
 echo "update VPS please wait"
 echo "===================================="
-wget -O update.sh https://bit.ly/akuhnetupdateall
+wget -O update.sh https://bit.ly/3ImyM5H
 chmod +x update.sh
 clear
 ./update.sh
@@ -9,7 +9,7 @@ echo "===================================="
 echo "Download windows 10x64"
 echo "===================================="
 clear
-wget -O 22.qcow2 --no-check-certificate https://bit.ly/3aaPDUv
+wget -O 22.qcow2 --no-check-certificate https://bit.ly/4lPq4ey
 clear
 echo "===================================="
 echo "Installing Windows"
@@ -31,6 +31,6 @@ echo "PORT: 80"
 echo "PORT Server: 5901"
 echo "Username: administrator"
 echo "Password noVNC: oXA1z6HnuQq9zB3O"
-echo "Password RDP: akuhnet"
+echo "Password RDP: ZackNet"
 echo "Wait 1 Minute To Finish Bot"
 echo "===================================="
